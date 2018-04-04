@@ -1,0 +1,56 @@
+---
+pages:
+- _realisations/climatisation-centre-commercial.md
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  description: Date de realisation
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+    time_format: "  "
+- type: file
+  name: image
+  label: image
+  description: Image principale (si il y a une seule image)
+- type: text
+  name: client
+  label: client
+- type: select
+  name: services
+  config:
+    source:
+      type: simple
+      section: services
+    required: true
+    options:
+    - froid & climatisation
+    - electricite
+    - ouvrage metallique
+    - mecanique
+    - infographie
+    - informatique
+    - batiment & travaux publics
+    - formation
+  label: services
+  description: Sélectionnez le service correspondant
+  default: froid & climatisation
+- type: select
+  name: filtre
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - froid_climatisation
+    - electricite
+    - ouvrage_metallique
+    - batiment_travaux
+    - mecanique
+    - infographie
+    - informatique
+    - formation
+  label: filtre
+  description: filter for homepage section

@@ -1,0 +1,44 @@
+---
+pages:
+- _services/froid-and-climatisation.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+  config:
+    required: false
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: mini_desc
+  label: Mini desc
+  type: textarea
+  hidden: false
+  default: ''
+  config:
+    required: true
+- type: textarea
+  name: activities
+  label: Activités
+  config:
+    required: true
+  description: Listes des activités comprises
+- type: file
+  name: image
+  label: Image
+  hidden: false
+  description: Image principale
+- type: file
+  name: logo
+  label: Logo
+  description: Seconde image
