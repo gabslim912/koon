@@ -63,7 +63,7 @@
           
           <div class="container">
             <div class="row">
-              <div class="col-md-6 ">
+              <div class="col-md-5 ">
                 <!-- header-left start -->
                 <!-- ================ -->
                 <div class="header-left clearfix">
@@ -79,7 +79,7 @@
                 <!-- header-left end -->
 
               </div>
-              <div class="col-md-6">
+              <div class="col-md-7">
           
                 <!-- header-right start -->
                 <!-- ================ -->
@@ -121,18 +121,18 @@
                           <!-- mega-menu end -->
                           <!-- mega-menu start -->
                           <li class="dropdown  mega-menu">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tous les services</a>
                             <ul class="dropdown-menu">
                               <li>
                                 <div class="row">
-                                  <div class="col-lg-8 col-md-9">
+                                  <div class="col-md-9">
                                     <h4 class="title">Services</h4>
                                     <div class="row">
-                                      <div class="col-sm-6">
+                                      <div class="col-md-6">
                                         <div class="divider"></div>
                                         <ul class="menu">
                                         {% for service in site.services %}
-                                          <li ><a href="{{ service.url }}" target="blank"><i class="fa fa-angle-right"></i>{{ service.title }}</a></li>
+                                          <li ><a href="{{ service.url }}" target="blank"><i class="fa fa-angle-right"></i>{{ service.title | slice: 0, 26}}</a></li>
                                          {% endfor %}
                                         </ul>
                                       </div>
@@ -140,9 +140,9 @@
                                       
                                     </div>
                                   </div>
-                                  <div class="col-lg-4 col-md-3">
+                                  <div class="col-md-3">
                                     <h4 class="title">Le groupe KOON</h4>
-                                    <p class="mb-10">Une firme d'ingenierie qui repond a tous vos besoins.</p>
+                                    <h6>Une firme d'ingenierie qui repond a tous vos besoins.</h6>
                                     <img src="{{site.image}}" alt="koon">
                                   </div>
                                 </div>
@@ -159,7 +159,7 @@
                         
                         <!-- header buttons -->
                         <div class="header-dropdown-buttons">
-                          <a href="/contact" class="btn btn-sm hidden-xs btn-default">Nous joindre <i class="fa fa-envelope-o pl-5"></i></a>
+                          <a href="/contact" class="btn btn-sm hidden-xs btn-default">Contacter maintemant! <i class="fa fa-envelope-o pl-5"></i></a>
                          
                         </div>
                         <!-- header buttons end-->

@@ -13,11 +13,11 @@
 							<ul class="slides">
 								<!-- slide 1 start -->
 								<!-- ================ -->
-								{% for slider in site.sliders %}
+								{% for service in site.services %}
 								<li data-transition="fadefromright" data-slotamount="4" data-masterspeed="500" data-saveperformance="on" data-title="Koon Groupe">
 								
 								<!-- main image -->
-								<img src="{{ slider.image}}" alt="slidebg1" data-bgposition="50% 60%"  data-bgrepeat="no-repeat" data-bgfit="cover">
+								<img src="{{ service.image}}" alt="slidebg1"   data-bgrepeat="no-repeat" data-bgfit="1286px 450px" >
 								
 								<!-- LAYER NR. 1 -->
 								<div class="tp-caption sfb fadeout dark-translucent-bg caption-box text-left"
@@ -28,9 +28,9 @@
 									data-start="1300"
 									data-easing="easeOutQuad"
 									data-endspeed="600">
-									<h2 class="title">{{ slider.title}}</h2>
+									<h2 class="title">{{ service.title}}</h2>
 									<div class="separator-2 clearfix"></div>
-									<p>{{ slider.content}}</p>
+									<p>{{ service.mini_desc}}</p>
 									<div class="text-right"><a class="btn btn-small btn-gray-transparent margin-clear" href="/about">Voir plus</a></div>
 								</div>
 
