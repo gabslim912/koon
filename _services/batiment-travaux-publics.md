@@ -4,8 +4,8 @@ date: 2018-04-03 00:00:00 +0000
 layout: service
 mini_desc: 'Le bâtiment, ce sont les logements (collectifs et individuels) mais aussi
   des bâtiments construits ou rénovés sont non résidentiels '
-image: "/uploads/2018/04/03/btp.jpg"
-logo: "/uploads/2018/04/03/btp.jpg"
+image: "/uploads/2018/04/23/btp1.jpg"
+logo: "/uploads/2018/04/23/btp2.png"
 activities: |-
   <h3>NOS GARANTIS</h3>
                 <ul class="list-icons">
