@@ -1,7 +1,7 @@
 ---
 pages:
-- _services/ouvrages-metalliques.md
 - _services/batiment-travaux-publics.md
+- _services/ouvrages-metalliques.md
 - _services/froid-and-climatisation.markdown
 hide_body: false
 is_partial: false

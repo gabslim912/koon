@@ -7,10 +7,10 @@ mini_desc: 'Le bâtiment, ce sont les logements (collectifs et individuels) mais
 image: "/uploads/2018/04/03/btp.jpg"
 logo: "/uploads/2018/04/03/btp.jpg"
 activities: |-
-  <h3>ACTIVITES</h3>
+  <h3>NOS GARANTIS</h3>
                 <ul class="list-icons">
-                  <li>We are here to support you <i class="icon-check-1"></i></li>
-                  <li>Free updates <i class="icon-check-1"></i></li>
+                  <li>Support 24/7 <i class="icon-check-1"></i></li>
+                  <li>Suivi hebdomadaire <i class="icon-check-1"></i></li>
                   <li>ipsam asperiores fugiat quo <i class="icon-check-1"></i></li>
                   <li>Animi veniam veritatis sint <i class="icon-check-1"></i></li>
                   <li>Voluptatum officia suscipit <i class="icon-check-1"></i></li>
