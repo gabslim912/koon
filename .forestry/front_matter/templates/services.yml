@@ -22,7 +22,7 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: service
 - name: mini_desc
   label: Mini desc
   type: textarea
