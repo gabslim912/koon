@@ -18,21 +18,11 @@ mini_desc: 'Nous œuvrons dans tous les secteurs industriels nécessitant une ma
   mécanique et électrique de leurs installations : alimentaire, chimie et pétrochimie,
   traitement de l''eau, papeterie, etc.'
 ---
-Définition :  
-« Activité qui vise à maintenir ou à rétablir un bien dans un état spécifié afin que celui-ci soit en mesure d'assurer un service déterminé »   
-Mais cette définition est un peu courte pour rendre compte de l'étendue de nos capacités :  
-  
 Nous œuvrons dans tous les secteurs industriels nécessitant une maintenance mécanique et électrique de leurs installations : alimentaire, chimie et pétrochimie, traitement de l'eau, papeterie, etc.  
   
 Notre but est de prévenir ou réparer les dysfonctionnements, et d'assurer le maintien et l'efficacité de l'outil de production. Pour ce faire, nous mettons à votre disposition un personnel qualifié, dans les domaines de l'électricité, de la mécanique, de l'automatisme.  
   
-  
-￼Nos moyens humains et matériels  
+Nos moyens humains et matériels  
 Nous vous apportons la sécurité en mettant à votre service une équipe disponible et réactive composée de :  
   
-Un groupe opérationnel qualifié et spécialisé (mécaniciens, électromécaniciens, électriciens), aptes à intervenir directement sur votre site.  
-￼  
-￼￼￼￼￼￼￼￼￼￼￼￼  
-  
-￼Nos compétences  
-Nous intervenons rapidement en supervision, réparation, entretien, fabrication et montage, sur tous types de machines, et notamment les pompes, machines tournantes, presses, ponts roulants, coupeuses, systèmes de convoyage, etc
+Un groupe opérationnel qualifié et spécialisé (mécaniciens, électromécaniciens, électriciens), aptes à intervenir directement sur votre site. 

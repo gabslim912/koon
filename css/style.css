@@ -6620,13 +6620,14 @@ h6.media-heading {
     max-width: 700px;
   }
   .full-text-container.left {
-    text-align: right;
+    text-align: justify;
   }
   .full-text-container.left * {
     margin-left: auto;
   }
   .full-text-container p {
     margin-bottom: 10px;
+    text-align: justify;
   }
 }
 /* Large and Medium devices (desktops, tablets less than 1199px) */

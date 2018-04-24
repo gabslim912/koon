@@ -5,7 +5,7 @@
 
 					<!-- page-title start -->
 					<!-- ================ -->
-					<h1 class="page-title text-center">Our <strong>Services</strong></h1>
+					<h1 class="page-title text-center">Nos <strong>Services</strong></h1>
 					<div class="separator"></div>
 					<br>
 					<!-- page-title end -->
@@ -15,7 +15,7 @@
 						<div class="col-sm-4">
 							<div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
 								<div class="overlay-container overlay-visible">
-									<img src="{{ service.image}}" alt="">
+									<img src="{{ service.image}}" alt="" style="width: 358px; height: 179px;">
 									<a href="{{ service.url }}" class="overlay-link"><i class="fa fa-link"></i></a>
 									<div class="overlay-bottom">
 										<div class="text">
@@ -24,7 +24,7 @@
 									</div>
 								</div>
 								<div class="body padding-horizontal-clear">
-									<p class="text-justify">{{ service.mini_desc }}</p>
+									<p class="text-justify">{{ service.mini_desc | slice: 0, 200 }} ...</p>
 									<a href="{{ service.url }}" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Voir plus<i class="fa fa-arrow-right pl-10"></i></a>	
 								</div>
 							</div>

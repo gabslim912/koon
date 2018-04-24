@@ -24,7 +24,7 @@
     
     <!-- banner start -->
       <!-- ================ -->
-      <div class="banner dark-translucent-bg" style="background-image:url('{{ page.logo }}'); background-position: 50% 32%; background-size: contain;">
+      <div class="banner parallax dark-translucent-bg" style="background-image:url('{{ page.image }}'); background-position: 50% 32%; background-size: cover;">
         <!-- breadcrumb start -->
         <!-- ================ -->
         <div class="breadcrumb-container">
@@ -58,7 +58,7 @@
         <!-- ================ -->
         <section class="full-width-section">
           <div class="full-image-container light-gray-bg">
-            <img class="to-right-block" src="{{ page.image }}" alt="">
+            <img class="to-right-block" src="{{ page.logo }}" alt="">
             <div class="full-image-overlay text-right">
               {{ page.activities }}
             </div>
@@ -66,7 +66,7 @@
           <div class="full-text-container light-gray-bg border-bottom-clear">
             <h2>DESCRIPTION DU SERVICE</h2>
             <div class="separator-2 visible-lg"></div>
-            <p>{{ page.content }}</p>
+            <p style="text-align: justify;">{{ page.content }}</p>
             <div class="separator-3 visible-lg"></div>
             <a href="/contact" class="btn btn-default btn-hvr hvr-sweep-to-left">Contactez-nous<i class="pl-5 icon-basket-1"></i></a>
           </div>
@@ -81,7 +81,7 @@
           <div class="main">
 
             <!-- page-title start -->
-            <!-- ================ -->
+            <!-- ================ --
             <h1 class="page-title">NOS REALISATIONS - {{ page.title }}</h1>
             <div class="separator-2"></div>
             <!-- page-title end -->
@@ -93,7 +93,7 @@
       </section>
       <!-- main-container end -->
       <!-- section start -->
-      <!-- ================ -->
+      <!-- ================ --
       <section>
         <div class="container">
          
@@ -108,7 +108,7 @@
                 <div class="overlay-top">
                   <div class="text">
                     <h3 class="page-title">{{ realisation.title }}</h3>
-                   <!-- <p class="small">{{ realisation.date }}</p> -->
+                   <!-- <p class="small">{{ realisation.date }}</p> --
                     <p class="page-title">{{ realisation.client }}</p>
                   </div>
                 </div>
@@ -123,8 +123,8 @@
           {% endfor %}  
         </div>
       </section>
-      <!-- section end -->
-      <br><br><br>
+      <!-- section end 
+      <br><br><br>-->
     
 
     {% include footer.html %}

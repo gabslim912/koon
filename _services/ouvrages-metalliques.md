@@ -1,5 +1,5 @@
 ---
-title: ouvrages metalliques
+title: Ouvrages Metalliques
 date: 2018-04-23 00:00:00 +0000
 mini_desc: Nous assurons la fabrication sur mesure des fermetures classiques et automatisées
   (porte, portails, grille, volet, châssis, barrières), des contrôles d'accès (serrure,
@@ -21,20 +21,6 @@ activities: |-
                 </ul>
 layout: service
 ---
-Notre intervention a pour finalité d'assurer la protection contre le vol, et le contrôle et la maîtrise des accès de sites à risque. Par cette action, nous protégeons votre outils de travail et facilitons le respect des règles de sécurité qui s'imposent sur les sites industriels.  
+Notre intervention a pour finalité d'assurer la protection contre le vol, et le contrôle et la maîtrise des accès de sites à risque. Par cette action, nous protégeons votre outils de travail et facilitons le respect des règles de sécurité qui s'imposent sur les sites industriels. Nous mettons à votre dispositions des techniciens qualifiés en chaudronnerie, soudure, électricité, capables d'intervenir tant pour la fabrication et l'installation que pour le dépannage.  
   
-  
-￼Nos moyens humains et matériels  
-Nous mettons à votre dispositions des techniciens qualifiés en chaudronnerie, soudure, électricité, capables d'intervenir tant pour la fabrication et l'installation que pour le dépannage.  
-  
-  
-￼Nos compétences  
-Nous assurons la fabrication sur mesure des fermetures classiques et automatisées (porte, portails, grille, volet, châssis, barrières), des contrôles d'accès (serrure, clavier, interphone, badgeuse, vidéosurveillance), de la serrurerie (installation, dépannage), de la protection (coffres-forts, armoires, portes-fortes, ignifuge), et de la métallerie en général (agencement, escaliers, garde-corps, structures sur mesure)  
-  
-Nous maîtrisons tous les matériaux nécessaires :  
-  
-INOX  
-CARBONE  
-PPE  
-PE  
-ALUMINIUM
+Nous assurons la fabrication sur mesure des fermetures classiques et automatisées (porte, portails, grille, volet, châssis, barrières), des contrôles d'accès (serrure, clavier, interphone, badgeuse, vidéosurveillance), de la serrurerie (installation, dépannage), de la protection (coffres-forts, armoires, portes-fortes, ignifuge), et de la métallerie en général (agencement, escaliers, garde-corps, structures sur mesure). Nous maîtrisons tous les matériaux nécessaires : INOX CARBONE PPE PE ALUMINIUM
