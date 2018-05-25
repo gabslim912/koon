@@ -42,6 +42,7 @@ fields:
   label: Logo
   description: Seconde image
 pages:
+- _services/terrain-a-vendre.md
 - _services/energie-solaire.md
 - _services/mecanique-electricite.md
 - _services/batiment-travaux-publics.md
