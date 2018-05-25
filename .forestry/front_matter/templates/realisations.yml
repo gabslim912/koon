@@ -15,8 +15,8 @@ fields:
   label: image
   description: Image principale (si il y a une seule image)
 - type: text
-  name: client
-  label: client
+  name: url
+  label: url
 - type: select
   name: services
   config:
@@ -53,6 +53,7 @@ fields:
     - formation
   label: filtre
   description: filter for homepage section
+  default: froid_climatisation
 pages:
 - _realisations/chambre-froide-salva.md
 - _realisations/climatisation-centre-commercial.md
