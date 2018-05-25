@@ -1,10 +1,4 @@
 ---
-pages:
-- _services/energie-solaire.md
-- _services/mecanique-electricite.md
-- _services/batiment-travaux-publics.md
-- _services/froid-and-climatisation.markdown
-- _services/ouvrages-metalliques.md
 hide_body: false
 is_partial: false
 fields:
@@ -47,3 +41,9 @@ fields:
   name: logo
   label: Logo
   description: Seconde image
+pages:
+- _services/energie-solaire.md
+- _services/mecanique-electricite.md
+- _services/batiment-travaux-publics.md
+- _services/froid-and-climatisation.markdown
+- _services/ouvrages-metalliques.md

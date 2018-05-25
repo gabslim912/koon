@@ -1,7 +1,4 @@
 ---
-pages:
-- _realisations/chambre-froide-salva.md
-- _realisations/climatisation-centre-commercial.md
 hide_body: false
 is_partial: false
 fields:
@@ -56,3 +53,6 @@ fields:
     - formation
   label: filtre
   description: filter for homepage section
+pages:
+- _realisations/chambre-froide-salva.md
+- _realisations/climatisation-centre-commercial.md
